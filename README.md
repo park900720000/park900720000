@@ -9,4 +9,4 @@
 [![JS](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white)](https://github.com/park900720000/park900720000/blob/main/README.md) [![JS](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white)](https://github.com/park900720000/park900720000/blob/main/README.md) [![JS](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=ORACLE&logoColor=white)](https://github.com/park900720000/park900720000/blob/main/README.md)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nash&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=park900720000&show_icons=true)
