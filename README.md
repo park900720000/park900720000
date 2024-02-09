@@ -19,3 +19,10 @@
 [![Jira Software](https://img.shields.io/badge/Jira_Software-0052CC?style=flat-square&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Jira Confluence](https://img.shields.io/badge/Jira_Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/)
+
+<br>
+
+## 🎮 Hobbies
+
+- **Gaming**: Recently enjoying [![Tekken 8](https://img.shields.io/badge/Tekken_8-000000?style=flat-square&logo=playstation&logoColor=white)](https://www.bandainamcoent.com/games/tekken-8) - Dive into the latest release of the iconic fighting game series.
+- **Pet Care**: Raising a dog [![Dog](https://img.shields.io/badge/Dog_Lover-FF69B4?style=flat-square&logo=dog&logoColor=white)](https://www.akc.org/) - Devoted to my furry friend, embracing all the joys and challenges of dog ownership.
