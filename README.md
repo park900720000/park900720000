@@ -24,5 +24,5 @@
 
 ## 🎮 Hobbies
 
-- **Gaming**: Recently enjoying [![Tekken 8](https://img.shields.io/badge/Tekken_8-000000?style=flat-square&logo=playstation&logoColor=white)](https://www.bandainamcoent.com/games/tekken-8) - Dive into the latest release of the iconic fighting game series.
-- **Pet Care**: Raising a dog [![Dog](https://img.shields.io/badge/Dog_Lover-FF69B4?style=flat-square&logo=dog&logoColor=white)](https://www.akc.org/) - Devoted to my furry friend, embracing all the joys and challenges of dog ownership.
+- **Gaming**: I've been playing the fighting game Tekken for 20 years and have recently been enjoying [![Tekken 8](https://img.shields.io/badge/Tekken_8-000000?style=flat-square&logo=playstation&logoColor=white)](https://www.bandainamcoent.com/games/tekken-8)
+- **Pet Care**: I have a 10-year-old mixed-breed [![Dog](https://img.shields.io/badge/Dog_Lover-FF69B4?style=flat-square&logo=dog&logoColor=white)](https://www.akc.org/)
