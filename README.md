@@ -25,4 +25,4 @@
 ## 🎮 Hobbies
 
 - **Gaming**: I've been playing the fighting game Tekken for 20 years and have recently been enjoying [![Tekken 8](https://img.shields.io/badge/Tekken_8-000000?style=flat-square&logo=playstation&logoColor=white)](https://www.bandainamcoent.com/games/tekken-8)
-- **Pet Care**: I have a 10-year-old mixed-breed [![Dog](https://img.shields.io/badge/Dog_Lover-FF69B4?style=flat-square&logo=dog&logoColor=white)](https://www.akc.org/)
+- **Pet Care**: I have a 10-year-old mixed-breed [![Dog](https://img.shields.io/badge/Dog-FF69B4?style=flat-square&logo=dog&logoColor=white)](https://www.akc.org/)
