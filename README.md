@@ -22,6 +22,11 @@
 
 <br>
 
+## 📚 Learning
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pja91)](https://solved.ac/pja91/)
+
+<br>
+
 ## 🎮 Hobbies
 
 - **Gaming**: I've been playing the fighting game Tekken for 20 years and have recently been enjoying [![Tekken 8](https://img.shields.io/badge/Tekken_8-000000?style=flat-square&logo=playstation&logoColor=white)](https://www.bandainamcoent.com/games/tekken-8)
